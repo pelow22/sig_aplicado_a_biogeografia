@@ -1,0 +1,11 @@
+Metadados shapefile world
+
+Escala:		1:1.000.000
+Fonte:		CDC – Center for Disease Control and Prevention
+Base de Dados:	Center for Disease Control and Prevention
+SRC:		EPSG:4326 - WGS 84 - Geográfico
+Codificação:	UTF-8
+Extensão: 	-179.9997834891996149,-89.9998283894376527 : 180.0000000000001137,83.6338109340297393
+Unidade: 	graus
+Descrição:	Limites estaduais e Províncias do planeta
+Formato:	shape, dbf, shx
