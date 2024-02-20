@@ -1,2 +1,2 @@
-Biogeografia e SIG: manual de aulas práticas
-Livro e minicurso
+Mapeamento da distribuição geográfica de espécies:
+Manual de aulas práticas
